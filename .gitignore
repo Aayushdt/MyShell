@@ -1,0 +1,22 @@
+# ── Build artifacts ──
+myshell
+*.o
+*.out
+*.exe
+
+# ── Editor / IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ── Debug ──
+*.dSYM/
+core
+vgcore.*
+
+# ── Test artifacts ──
+test_input.txt
+/tmp/myshell_test_*.txt
