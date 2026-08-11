@@ -1,4 +1,4 @@
-# MyShell 🐚
+# MyShell 
 
 A mini Unix shell written in C that demonstrates core OS concepts: process creation, inter-process communication, and file descriptor manipulation.
 
